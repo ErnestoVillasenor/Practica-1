@@ -1,2 +1,3 @@
 # Practica-1
-Representación a bloques en Simulink de ecuaciones Diferenciales
+PRÁCTICA 1.REPRESENTACIÓN A BLOQUES
+DE ECUACIONES DIFERENCIALES EN SIMULINK
